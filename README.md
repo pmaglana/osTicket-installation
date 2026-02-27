@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
  
-<h2>Installing osTicket on a Windows 10 Virtual Machine</h2>
+<h1>Installing osTicket on a Windows 10 Virtual Machine</h1>
 
 <h2>What is osTicket</h2>
 
