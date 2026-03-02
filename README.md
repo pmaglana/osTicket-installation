@@ -56,7 +56,7 @@ In this project we will install and deploy osTicket on a Windows 10 virtual mach
 
 <h3>3. Enable IIS in Windows with CGI</h3>
 
-- At the start menu, search for "Turn Windows features on or off". The Windows Features box will pop up. Click + sign on Internet Information Services to expand. Click + on World Wide Web Services to expand. Then, click + on Application Development Features, and lastly tick the CGI checkbox, and hit OK. *(In some cases IIS Management Console needs to be installed too. To do this, just expand Web Management Tools & check IIS management Console)*
+- At the start menu, search for "Turn Windows features on or off". The Windows Features box will pop up. Click + sign on Internet Information Services to expand. Click + on World Wide Web Services to expand. Then, click + on Application Development Features, and lastly tick the CGI checkbox, and hit OK. *(In some cases IIS Management Console and Default Document feature needs to be installed too. To install IIS Management COnsole, just expand Web Management Tools & check IIS management Console. And for the Default Document feature expand IIS > World Wide Web Services> Common HTTP Features then check Default Document, Static Content, HTTP Errors, and Directory Browsing.)*
 - After windows is finished with the installation click the Close button.
 
 <img src="images/step3.png" width="75%" >
