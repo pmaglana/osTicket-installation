@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img width="2566" height="416" alt="ostcktbanner" src="https://github.com/user-attachments/assets/6f8acbc4-436c-4eda-bafc-4198ed13301a" />
 </p>
  
 <h1>Installing osTicket on a Windows 10 Virtual Machine</h1>
