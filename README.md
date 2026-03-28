@@ -224,7 +224,7 @@ In this project we will install and deploy osTicket on a Windows 10 virtual mach
 <img src="images/grats.png" width="75%" >
 
 
-<sub>*Having issues and trouble installing osTicket? Please reach out to paulo@maglana.com*</sub>
+<sub>*Having issues and trouble installing osTicket? Please reach out to easy.patch3668@fastmail.com*</sub>
 
 
 
